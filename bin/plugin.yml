@@ -1,0 +1,109 @@
+name: HypixelCore
+version: 1.0
+author: ItsKazos
+main: me.itskazos.hypixelcore.Main
+description: Remake of the core of hypixel
+
+commands:
+    achat:
+        description: Speaks in public chat
+    achrewards:
+        description: Claim achievement rewards
+    admin:
+        description: Admin only
+    afk:
+        description: Sets you as afk
+    afkwarp:
+        description: Moves you to the afk world
+    badname:
+        description: Bans a player for a bad name
+    ban:
+        description: Bans a player
+    boop:
+        description: Boop!
+    booster:
+        description: Manage boosters
+    boosteradmin:
+        description: Manages overall boosters
+    bt:
+        description: Build team
+    build:
+        description: Build mode
+    chat:
+        description: Changes chat communicating in
+    chatreport:
+        description: Reports someone for a chat violation
+    claimrewards:
+        description: Claim levelling rewards
+    clear:
+        description: Clear players inventory
+    disablepunch:
+        description: Disables staff punch
+    discord:
+        description: Links to servers discord
+    emotes:
+        description: Shows MVP++ emotes
+    friend:
+        description: Manage friends
+    gchat:
+        description: Speak in guild chat
+    guild:
+        description: Manage guilds
+    help:
+        description: Help
+    hi:
+        description: Hi!
+    ignore:
+        description: Ignores a player in chat and in messages
+    kaboom:
+        description: Kaboom
+    kick:
+        description: Kicks a player
+    linkaccount:
+        description: Link an account
+    lobby:
+        description: Sends you to the lobby
+    maskrank:
+        description: Masks your rank
+    msg:
+        description: Message a player
+    myposition:
+        description: Tells you your exact position
+    nick:
+        description: Nicks the player
+    nuke:
+        description: Nuke...
+    opme:
+        description: You have OP!
+    party:
+        description: Manage party
+    punish:
+        description: Punish a player
+    rank:
+        description: Set rank of a player
+    setspawn:
+        description: Sets spawn
+    settings:
+        description: Manage player or plugin settings
+    shutup:
+        description: Mutes chat
+    spawnmob:
+        description: Summons a mob
+    speed:
+        description: ZOOOOOOOM!
+    staffchat:
+        description: Staff chat
+    sudo:
+        description: Forces a player to execute a command
+    tp:
+        description: Teleport to a player
+    tpall:
+        description: Teleport all players to you
+    tphere:
+        description: Teleports a player to you
+    unnick:
+        description: Unnick
+    vanish:
+        description: Vanishes from existance
+    wdr:
+        description: Watchdog report
